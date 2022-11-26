@@ -4,23 +4,7 @@
 </head>
 <body>
 <p><em><strong>AR Commenter Project</strong></em><br />By Justin Wang, Bob Bao, Devin Li</p>
-  <div align="center">
-  <img  src="https://github.com/1999AZZAR/1999AZZAR/blob/main/resources/img/grid-snake.svg"
-       alt="snake" /></a>
-</div>
-<!DOCTYPE html>
-<html>
-<head>
-</head>
-<body>
-<div class="application-main " data-commit-hovercards-enabled="" data-discussion-hovercards-enabled="" data-issue-and-pr-hovercards-enabled="">
-<div class=""><main id="js-repo-pjax-container">
-<div class="clearfix container-xl px-3 px-md-4 px-lg-5 mt-4">
-<div data-test-selector="blob-container">
-<div class="Box mt-3 position-relative" data-target="readme-toc.content">
-<div class="Box-body p-0 blob-wrapper data type-text  gist-border-0">
-<div class="js-blob-code-container blob-code-content">&nbsp;</div>
-</div>
+ <img src="https://fierce-dawn-45790.herokuapp.com?font=Fira+Code&weight=500&duration=2000&pause=100&color=F71AD8F4&multiline=true&width=435&height=65&lines=View+Your+World+Everywhere;Learn+The+Knowledge+Everytime" alt="Typing SVG" />
 </div>
 <details id="jumpto-line-details-dialog" class="details-reset details-overlay details-overlay-dark">
 <summary role="button" data-hotkey="l" aria-label="Jump to line"><a title="Video De,o" href="https://youtu.be/X9iV_HfJMAA">Video Demo</a></summary>
