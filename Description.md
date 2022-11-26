@@ -18,4 +18,4 @@
 
 <img src="https://fierce-dawn-45790.herokuapp.com?font=Fira+Code&weight=500&duration=2000&pause=1000&color=F709F6&center=true&width=435&lines=View+Your+World+Everywhere+With+AR" alt="Typing SVG" />
 
-![2022-ford-expedition-stealth-edition-140-1662650367](https://user-images.githubusercontent.com/112147566/204069900-f5b0a528-be21-46ce-8363-835d1436f1c2.jpg)
+
