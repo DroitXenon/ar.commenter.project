@@ -15,12 +15,12 @@
 
 <h4>Suspension:</h4> 
 <h5>It makes the car to get over the high G when turing at high speed cornors. The suspension needs to be very firm.</h5>
-
-<img src="https://fierce-dawn-45790.herokuapp.com?font=Fira+Code&weight=500&duration=2000&pause=1000&color=F709F6&center=true&width=435&lines=View+Your+World+Everywhere+With+AR" alt="Typing SVG" />
+    
+<img src="https://fierce-dawn-45790.herokuapp.com?font=Fira+Code&weight=500&duration=2000&pause=100&color=F71AD8F4&multiline=true&width=435&lines=View+Your+World+Everywhere;Learn+The+Knowledge+Everytime" alt="Typing SVG" />
 
 |            Name            |                          Preview                            |
 | :------------------------: | :--------------------------------------------------------:  |
 |       **Suspension**       |  ![image MQ6 12 20210929142037](https://user-images.githubusercontent.com/112147566/204070223-8e223d1b-b2ad-4bc6-8137-d3e2eb2b1a6b.jpeg)    |
-|         **Frame**          | ![wanoco-4d-car-sports-mercedesamg-gt-305](https://user-images.githubusercontent.com/112147566/204070224-585c9286-c69a-4a8b-9908-a4fa7694da99.jpg)       |
+|        **Frame**           | ![wanoco-4d-car-sports-mercedesamg-gt-305](https://user-images.githubusercontent.com/112147566/204070224-585c9286-c69a-4a8b-9908-a4fa7694da99.jpg)       |
 |       **Engine**           | ![4by3](https://user-images.githubusercontent.com/112147566/204070225-694b0f59-58e2-46a9-bba4-55743a11b8c7.jpeg) |
-
+|        **Tyres**           | ![P-Zero-BMW](https://user-images.githubusercontent.com/112147566/204070402-84817768-9db2-40c9-a19f-b22cf3d71305.jpg)|
