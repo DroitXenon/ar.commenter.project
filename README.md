@@ -3,7 +3,7 @@
 <head>
 </head>
 <body>
-<p><em><strong>AR Commenter Project</strong></em><br />By Justin Wang, Bob Bao, Devin Li, James Hong</p>
+<p><em><strong>AR Commenter Project</strong></em><br />By Justin Wang, Bob Bao, Devin Li</p>
   <div align="center">
   <a href="https://1999azzar.github.io/1999AZZAR/">
   <img  src="https://github.com/1999AZZAR/1999AZZAR/blob/main/resources/img/grid-snake.svg"
