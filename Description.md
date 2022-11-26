@@ -16,4 +16,4 @@
 <h4>Suspension:</h4> 
 <h5>It makes the car to get over the high G when turing at high speed cornors. The suspension needs to be very firm.</h5>
 
-<img src="https://fierce-dawn-45790.herokuapp.com?font=Fira+Code&weight=500&pause=1000&color=F709F6&center=true&width=435&lines=View+Your+World+Everywhere+With+AR" alt="Typing SVG" />
+<img src="https://fierce-dawn-45790.herokuapp.com?font=Fira+Code&weight=500&duration=3000&pause=1000&color=F709F6&center=true&multiline=true&width=435&lines=View+Your+World+Everywhere+With+AR" alt="Typing SVG" /> 
