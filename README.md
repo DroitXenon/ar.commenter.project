@@ -4,6 +4,11 @@
 </head>
 <body>
 <p><em><strong>AR Commenter Project</strong></em><br />By Justin Wang, Bob Bao, Devin Li, James Hong</p>
+  <div align="center">
+  <a href="https://1999azzar.github.io/1999AZZAR/">
+  <img  src="https://github.com/1999AZZAR/1999AZZAR/blob/main/resources/img/grid-snake.svg"
+       alt="snake" /></a>
+</div>
 <p>🖥️<em><strong>Project Name</strong></em><br />AR Commenter (ARC)</p>
 <p><strong>🌿</strong><em><strong>Project Motivation</strong></em></p>
 <p>Our inspiration came from the LiDAR on our iPhones/iPads which. Digital education is playing an increasingly prominent role in the post-pandemic era, our team wants to become a part of this exciting process. The problem which we have identified is the lack of functional AR presentation softwares on the App Store. We are deeply intrigued how such beautiful and precious instruments have made their way into our lives, and we also lament the public&rsquo;s unawreness of the benefits LiDAR can bring into their lives such as AR measurement, AR education, AR presentation. Hence, ARC is born.&nbsp;<br />Although similar products have made their way onto the market in the past, none have had the specific scopes nor the depth our team envisioned, ultimately we agreed to create our own.&nbsp;</p>
